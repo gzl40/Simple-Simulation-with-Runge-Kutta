@@ -1,5 +1,5 @@
 # Simple-Simulation-with-Runge-Kutta-
-an Archive for honework of 1-1 semester, a simple simulation of orbit dynamics
+an Archive for the tiny, naive also the very first project of the very fisrt semester in sysu, a simple simulation of orbit dynamics in Newton mechanics.
 
 需要安装EazyX库
 
