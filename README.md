@@ -1,4 +1,4 @@
-# Simple-Simulation-with-Runge-Kutta-
+# Simple Simulation with Runge Kutta
 an Archive for the tiny, naive also the very first project of the very fisrt semester in sysu, a simple simulation of orbit dynamics in Newton mechanics.
 
 需要安装EazyX库
